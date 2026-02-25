@@ -1,2 +1,2 @@
 # Bachelorthesis_LesestAR
-Hier finden Sie die Skripte der LesestAR-Anwendung
+Hier finden Sie sämtliche digitalen Daten, die zur Erstellung der Anwendung verwendet wurden.
